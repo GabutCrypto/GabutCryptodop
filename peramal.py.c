@@ -1,0 +1,10 @@
+nama = input ("nama siapa :")
+print ("wahhh",(nama),"nama yang bagus")
+
+bulan = input ("dia lahir bulan apa :")
+print ("ooooo",(nama),"lahir bulan",(bulan))
+print ("="*20)
+print ((nama),"orang yang jujur")
+print ((nama),"orang yang baik")
+print ((nama),"orang yang rajin")
+print ((nama),"orang yang pemalu")
