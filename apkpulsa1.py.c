@@ -12,7 +12,7 @@ print ( (bayar),"= masukan jumlah")
 
 uang = input ("Bayar :")
 
-print ((uang), "apakah suada nenar")
+print ((uang), "apakah suada benar")
 
 input ("....?")
 
